@@ -13,5 +13,5 @@ This script provides simple personalised greetings based on given name and surna
 Make sure you have Python installed. Then run:
 
 ```bash
-python Task1.py
-python Task2.py
+task1.py
+task2.py
